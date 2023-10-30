@@ -33,29 +33,23 @@
 
 ## Test Results
 
+**note:** To see pictures of the outputs, please refer to the folder labeled "Code Snippets". Due to the lengthy nature of the outputs, only parts may be shown. Feel free to run yourself to see full output displays.
+
 ### IPC Example
 
-![IPC Example Figure]("path")
-
-Explanation: This test demonstrates how the parent process reads a message sent by the child process using pipes.
+This test demonstrates how the parent process reads a message sent by the child process using pipes.
 
 ### Command Execution in Thread
 
-![Command Execution Figure](path/to/your/command-execution-figure.png)
-
-Explanation: The test shows the execution of a command in a separate thread without blocking the main thread.
+The test shows the execution of a command in a separate thread without blocking the main thread.
 
 ### Process Creation and Listing
 
-![Process Creation Figure](path/to/your/process-creation-figure.png)
-
-Explanation: This test showcases the creation of a new process and then lists all currently running processes.
+This test showcases the creation of a new process and then lists all currently running processes.
 
 ### Producer-Consumer Problem
 
-![Producer-Consumer Figure](path/to/your/producer-consumer-figure.png)
-
-Explanation: The producer-consumer test demonstrates how items are produced and consumed using threads and a queue, ensuring synchronization.
+The producer-consumer test demonstrates how items are produced and consumed using threads and a queue, ensuring synchronization.
 
 ## Discussion on the Project Results
 
